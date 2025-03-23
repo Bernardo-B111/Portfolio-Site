@@ -26,7 +26,7 @@ const About = () => {
 
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-          Welcome! I'm Bernardo, a developing data analyst with a passion for uncovering insights and transforming raw data into meaningful stories. I thrive on problem-solving and continuous learning, always looking for new ways to improve my analytical skills. With a blend of creativity and technical expertise, I translate raw data into actionable insights that drive informed decision-making.
+          Welcome! I'm Bernardo, a data analyst passionate about transforming raw data into meaningful insights. I thrive on problem-solving and continuous learning, using creativity and technical expertise to drive informed decision-making.
           </p>
 
           <div className="flex flex-wrap items-center gap-4 md:gap-7">
