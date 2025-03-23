@@ -20,8 +20,8 @@ body {
   @apply text-zinc-50 ;
   background: linear-gradient(0deg, #18181b,  #1e222c, #1e2535, #18181b);
   position: relative;
-  overflow: hidden;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 
